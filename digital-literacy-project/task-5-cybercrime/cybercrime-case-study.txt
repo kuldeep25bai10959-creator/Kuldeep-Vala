@@ -1,0 +1,13 @@
+Cybercrime Case Study: Phishing Attack
+
+Cybercrime has become a major problem in the digital world. One common type of cybercrime is phishing, where attackers try to steal personal information by pretending to be a trusted organization.
+
+In one case, a college student received an email that looked like it came from his bank. The email said that there was a problem with his bank account and asked him to click a link to verify his information. The email looked very real and included the bank's logo and design.
+
+The student clicked the link and entered his bank account details and password. However, the website was fake and created by cybercriminals. Within a few hours, money was withdrawn from his account without his permission.
+
+After realizing the fraud, the student contacted the bank and reported the incident. The bank blocked the account and started an investigation, but the student still faced financial loss.
+
+This case shows how dangerous phishing attacks can be. People should always check the sender’s email address, avoid clicking suspicious links, and never share sensitive information online.
+
+Cyber awareness and safe internet practices can help prevent such cybercrimes and protect users from becoming victims.
